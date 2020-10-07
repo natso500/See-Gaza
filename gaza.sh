@@ -1,4 +1,4 @@
-####sajed###
+####Mr.Natso50
 clear
 figlet See Gaza
 echo "cereat py DEKESTER"
